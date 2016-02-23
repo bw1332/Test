@@ -1,6 +1,0 @@
-#This is an <h1> tag
-```javascript
-function foo(){
-System.out.print("hello");
-}
-```
